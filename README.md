@@ -1,2 +1,2 @@
 # rock_scissor_paper
-assignment  aiffel
+assignment for aiffel
